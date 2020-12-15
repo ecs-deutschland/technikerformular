@@ -1,0 +1,15 @@
+.header {
+    font-family: Helvetica;
+    background-color: white;
+    text-align: center;
+    color: black;
+}
+
+img {
+    height: 130px;
+}
+
+img:hover {
+    cursor:pointer
+}
+

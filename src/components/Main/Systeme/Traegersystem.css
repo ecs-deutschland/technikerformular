@@ -1,0 +1,27 @@
+input {
+    margin-top: 3px;
+    width: 100%;
+}
+
+.Sip {
+    padding: 10px;
+    border: solid #C3DC89 2px;
+    border-radius: 5px;
+}
+
+.datepicker {
+    border: solid 1px #DDE1E6;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.sonderanbindungen {
+    background-color: #F3F5F7;
+    border: solid 1px #dadcdd;
+    border-radius: 6px;
+    margin-bottom: 3px;
+}
+
+.sonderanbindungen label{
+    
+}
